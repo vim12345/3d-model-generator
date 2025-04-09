@@ -1,7 +1,7 @@
  
 # ✅ 1. Clone and Set Up
 
-git clone https://github.com/your-username/3d-model-generator.git
+git clone https://github.com/vim12345/3d-model-generator
 
 cd 3d-model-generator
 # ✅ 2. Install Requirements
